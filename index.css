@@ -1,0 +1,21 @@
+#legendPart{
+    display: inline-block;
+}
+ul {
+    list-style: none;
+}
+ li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+ span {
+    display: inline-block;
+}
+
+.chart-legend {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
